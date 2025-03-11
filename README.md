@@ -1,7 +1,7 @@
 <h1>Lesson Learned 📚 </h1>
 
 <h2>Descrição do Projeto</h2>
-<p>O projeto <strong>Lesson Learned</strong> consiste na criação de um site que documenta os <em>aprendizados</em> adquiridos de HTML, CSS e JS. O site deve ser estilizado, semanticamente correto e acessível, garantindo uma melhor experiência do usuário e otimização para mecanismos de busca.</p>
+<p>O projeto <strong>Lesson Learned</strong> consiste na criação de um site que documenta os <em>aprendizados</em> adquiridos de HTML, CSS e JS. O site foi estilizado, semanticamente correto e acessível, garantindo uma melhor experiência do usuário e com otimização para mecanismos de busca.</p>
 
 <h2>Tecnologias Utilizadas</h2>
 <ul>
